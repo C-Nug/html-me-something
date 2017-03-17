@@ -1,0 +1,66 @@
+/* Created by Jesse Brown aka C-Nug for LC101
+  styles for Sergio the Sourdough webpage */
+body {
+  margin: 5px;
+  padding: 5px;
+  background-color: #23272b;
+}
+h2 {
+  border-bottom: 1px solid #a2a9b1;
+  color: #d0dae5;
+}
+h3 {
+  color: #d0dae5;
+}
+p {
+  font-family: 'Linux Libertine', 'Georgia', 'Times', serif;
+  color: #d0dae5;
+}
+article {
+  padding: 5px;
+  clear: left;
+}
+a:link {
+  color: #2483e2;
+  text-decoration: none;
+}
+a:hover{
+  color: #2483e2;
+  text-decoration: underline;
+}
+a:visited {
+  color: #83b9ef;
+  text-decoration: none;
+}
+ol {
+  color: #d0dae5;
+}
+.pageMenu {
+  border: 1px solid #a2a9b1;
+  border-spacing: 3px;
+  clear: both;
+  float: left;
+  padding-right: 10px;
+}
+.rightbar {
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    background-color: #484d51;
+    float: right;
+    clear: right;
+    padding: 4px;
+}
+.rightbarPic {
+  width: 350px;
+}
+#picText {
+  text-align: center;
+}
+
+
+footer {
+  color: #808589;
+  margin: 10px;
+  padding-top: 50px;
+  align-items: center;
+}
