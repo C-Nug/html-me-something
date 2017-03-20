@@ -49,6 +49,8 @@ ol {
     float: right;
     clear: right;
     padding: 4px;
+    margin-left: 15px;
+    margin-bottom: 5px;
 }
 .rightbarPic {
   width: 350px;
